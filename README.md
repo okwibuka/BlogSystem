@@ -2,6 +2,6 @@
 email:okwibuka11@gmail.com , 
 password: solidality
 
-#login as super admnin:
+#login as super admin:
 email:okwibuka@gmail.com , 
 password:solidality
